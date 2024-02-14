@@ -13,7 +13,7 @@ public class SecondTask {
         }
 
         for (int i = 0; i < firstSomeArray.length; i++) {
-            if (firstSomeArray[i].getClass().getTypeName() != secondSomeArray[i].getClass().getTypeName()){
+            if (!firstSomeArray[i].getClass().getTypeName().equals(secondSomeArray[i].getClass().getTypeName())){
                 return false;
             }
         }
