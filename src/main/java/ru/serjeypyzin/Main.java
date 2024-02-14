@@ -29,6 +29,7 @@ public class Main {
         Pair<String, Integer> pair = new Pair<>("book", 200);
         System.out.println(pair.getFirst());
         System.out.println(pair.getSecond());
-        System.out.println(pair.toString());
+        String stringRepresentation = pair.toString();
+        System.out.println("Строковое представление пары: " + stringRepresentation);
     }
 }

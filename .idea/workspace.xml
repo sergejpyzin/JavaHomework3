@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8b89d33-9b56-40f6-b135-3658d4e24472" name="Changes" comment="Create Calculator">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/serjeypyzin/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/serjeypyzin/SecondTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b8b89d33-9b56-40f6-b135-3658d4e24472" name="Changes" comment="Create Pair">
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/serjeypyzin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/serjeypyzin/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707914397324</updated>
       <workItem from="1707914398325" duration="1742000" />
-      <workItem from="1707918892438" duration="931000" />
+      <workItem from="1707918892438" duration="1417000" />
     </task>
     <task id="LOCAL-00001" summary="Create Calculator">
       <option name="closed" value="true" />
@@ -69,7 +64,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707915090491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create SecondTask">
+      <option name="closed" value="true" />
+      <created>1707920174024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707920174024</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create Pair">
+      <option name="closed" value="true" />
+      <created>1707920200002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707920200002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +88,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Calculator" />
+    <MESSAGE value="Create SecondTask" />
+    <MESSAGE value="Create Pair" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Pair" />
   </component>
 </project>
