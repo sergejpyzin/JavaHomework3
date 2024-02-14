@@ -3,7 +3,7 @@ package ru.serjeypyzin;
 public class Main {
     public static void main(String[] args) {
         int a = 5;
-        int b = 5;
+        double b = 5.1;
 
         System.out.println(Calculator.sum(a, b));
         System.out.println(Calculator.multiply(a, b));
